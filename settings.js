@@ -26,16 +26,16 @@ global.owner = ['0770378874'] //Owner number in aive msg
 global.premium = ['0770378874'] //Owner Number info
 global.ownernomer = '0770378874' //Owner Number <<<
 
-global.ownername = '❤𝙺𝙸𝙽𝙶 𝚜𝚞𝚗𝚎𝚝𝚑 💔' //Owner Name
-global.botname = ' ❤☬RED༒DRAGON࿐❤' //Bot Name
+global.ownername = '❤❑𝙺𝙸𝙽𝙶 𝐒𝐔𝐍𝐄𝐓𝐇❑💔' //Owner Name
+global.botname = ' ❑❤☬𝐑𝐄𝐃༒𝐃𝐑𝐀𝐆𝐎𝐍࿐❤' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '❤𝙺𝙸𝙽𝙶 𝚜𝚞𝚗𝚎𝚝𝚑 ❤❯' //Author Name
+global.packname = '❑☬𝐑𝐄𝐃༒𝐃𝐑𝐀𝐆𝐎𝐍࿐❑' //Bot Pacage Name
+global.author = '❑❤𝙺𝙸𝙽𝙶 𝐒𝐔𝐍𝐄𝐓𝐇 ❤❯❑' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -47,14 +47,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    success: 'Done ✅හරි🙏',
+    admin: 'Only Admins can use it!😉ඇඩ්මින්ලට විතරයි යකෝ🤣',
+    botAdmin: 'Bot wants to be an Admin😥 ඇඩ්මින්ලට 😎',
+    owner: 'Only Owner can use this!😉අයිති කරුට විතරයි🤣,
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '❑🙏👉👈Pleas Wait...ටිකක් ඉන්නකෝ',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
